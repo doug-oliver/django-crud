@@ -5,14 +5,14 @@
 
 A complete CRUD application with elegant Bootstrap 5 interface.
 
-## ✨ Features
+## Features
 - Create, Read, Update, Delete operations
 - Responsive Bootstrap 5 design
 - Real-time record counter
 - Confirmation dialogs for deletions
 - Beautiful form validations
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone repo:
 ```bash
