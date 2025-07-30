@@ -1,15 +1,38 @@
-# Django
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django specific
 *.log
 *.pot
 *.pyc
-__pycache__/
+*.sqlite3
 db.sqlite3
-venv/
-
-# IDE
-.vscode/
-.idea/
-
-# Environment
+media/
+staticfiles/
 .env
-*.env
+
+# Migrations
+*/migrations/__pycache__/
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
+*/migrations/*.db
+*/migrations/*.sqlite3
+*/migrations/*.log
+
+# VS Code
+.vscode/
+
+# Docker
+*.pid
+*.pid.lock
+*.sock
+docker-compose.override.yml
+# Docker volumes (caso use bind mount em .docker)
+.docker/
+
+# System files
+.DS_Store
+Thumbs.db
