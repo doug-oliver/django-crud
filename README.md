@@ -1,5 +1,6 @@
 # Django CRUD Application with Bootstrap
-![Uploading image.png…]()
+<img width="881" height="300" alt="image" src="https://github.com/user-attachments/assets/6890edfc-105d-4f24-8de4-845d7f87c249" />
+
 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
