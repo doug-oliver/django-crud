@@ -1,5 +1,7 @@
 # Django CRUD Application with Bootstrap
-<img width="881" height="300" alt="image" src="https://github.com/user-attachments/assets/6890edfc-105d-4f24-8de4-845d7f87c249" />
+<img width="854" height="374" alt="image" src="https://github.com/user-attachments/assets/afa6289a-c324-4b86-8171-404527594bb6" />
+<img width="638" height="297" alt="image" src="https://github.com/user-attachments/assets/9d61b997-1c48-406c-819d-4edab1134c9e" />
+
 
 
 
