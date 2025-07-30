@@ -1,4 +1,6 @@
 # Django CRUD Application with Bootstrap
+![Uploading image.png…]()
+
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,5 +38,4 @@ django-crud/
 │   └── views.py          # View logic
 └── manage.py             # Django CLI
 
-<img width="881" height="300" alt="image" src="https://github.com/user-attachments/assets/71d133ca-5e9e-4484-9c0d-6568dbf07af1" />
 
