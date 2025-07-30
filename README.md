@@ -35,3 +35,6 @@ django-crud/
 │   ├── urls.py           # App URLs
 │   └── views.py          # View logic
 └── manage.py             # Django CLI
+
+<img width="881" height="300" alt="image" src="https://github.com/user-attachments/assets/71d133ca-5e9e-4484-9c0d-6568dbf07af1" />
+
